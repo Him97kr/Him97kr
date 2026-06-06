@@ -58,7 +58,7 @@ Interactive population visualisation with line charts, scatter plots, year-based
 
 ## Experience
 
-5.5 years of frontend engineering. Includes GraphQL API development in Go at enterprise scale (Walmart). Strong background in React application architecture, state management, data visualisation, and browser extension development.
+5.5+ years building enterprise-scale web applications with React, TypeScript and Next.js. Experience leading frontend architecture, developing GraphQL APIs in Go, building data visualisation platforms with D3.js, and shipping production browser extensions.
 
 ---
 
