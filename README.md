@@ -2,7 +2,7 @@
 
 # Himanshu Kumar
 
-**Frontend Engineer &nbsp;·&nbsp; 5.5 years experience &nbsp;·&nbsp; Open to global opportunities**
+**Senior Frontend Engineer &nbsp;·&nbsp; 5.5 years experience &nbsp;·&nbsp; Open to global opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/himanshu-kumar-518b71192)
 [![Portfolio](https://img.shields.io/badge/Live_Demo-00e5a0?style=flat-square&logo=googlechrome&logoColor=black)](https://him97kr.github.io/geoquery-dashboard)
