@@ -33,9 +33,9 @@ GraphQL API in Go serving country demographics, COVID-19 statistics, and WHO out
 ---
 
 ### [GeoVitals](https://chromewebstore.google.com/detail/igkoiddcpkagiijomnmcadchopdnmlje) &nbsp;·&nbsp; [Repo](https://github.com/Him97kr/chrome-extension-geovitals)
-> React · Webpack 5 · Manifest V3 · REST Countries · disease.sh · WHO API
+> React · Webpack 5 · Manifest V3 · REST Countries · disease.sh · WHO API · Google News RSS
 
-Published Chrome extension that detects country names on any webpage and shows a hover tooltip with population, density, COVID-19 stats and WHO outbreak alerts. React popup, Vanilla JS content scripts, 30-minute API cache.
+Published Chrome extension that detects country names on any webpage and shows a hover tooltip with demographics, visa requirements, live currency rates, COVID-19 statistics, WHO disease outbreak alerts, and latest news. React popup, Vanilla JS content scripts, 30-minute API cache.
 
 ---
 
