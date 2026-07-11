@@ -25,10 +25,10 @@ Country intelligence dashboard with 5 D3 chart types — choropleth map, treemap
 
 ---
 
-### [GeoQuery API](https://geoquery-production.up.railway.app/playground) &nbsp;·&nbsp; [Repo](https://github.com/Him97kr/geoquery)
-> Go · GraphQL · graph-gophers/graphql-go · Railway
+### [GeoQuery API](https://geoquery.onrender.com/playground) &nbsp;·&nbsp; [Repo](https://github.com/Him97kr/geoquery)
+> Go · GraphQL · graph-gophers/graphql-go · Render
 
-GraphQL API in Go serving country demographics, COVID-19 statistics, and WHO outbreak news. No API key required. ISO alpha3 code matching for reliable cross-API lookups. Deployed on Railway with an interactive GraphiQL playground.
+GraphQL API in Go serving country demographics, COVID-19 statistics, and WHO outbreak news. No API key required. ISO alpha3 code matching for reliable cross-API lookups. Deployed on Render with an interactive GraphiQL playground.
 
 ---
 
@@ -52,7 +52,7 @@ Interactive population visualisation with line charts, scatter plots, year-based
 
 **Backend** &mdash; Go, GraphQL, Node.js
 
-**Tooling** &mdash; GitHub Actions, Railway, GitHub Pages, Chrome Extensions Manifest V3
+**Tooling** &mdash; GitHub Actions, Render, GitHub Pages, Chrome Extensions Manifest V3
 
 ---
 
