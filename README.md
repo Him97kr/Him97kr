@@ -48,11 +48,11 @@ Interactive population visualisation with line charts, scatter plots, year-based
 
 ## Tech Stack
 
-**Frontend** &mdash; React, Redux Toolkit, Apollo Client, D3.js, JavaScript ES6+, TypeScript, Tailwind CSS, Webpack, Vite
+**Frontend** &mdash; React.js, Redux Toolkit, Apollo Client, JavaScript (ES6+), TypeScript, D3.js, Next.js, HTML, CSS, Tailwind CSS, Material UI, Webpack, Vite
 
-**Backend** &mdash; Go, GraphQL, Node.js
+**Backend** &mdash; Go, GraphQL, Node.js, Java Spring Boot, REST APIs, JWT Authentication
 
-**Tooling** &mdash; GitHub Actions, Render, GitHub Pages, Chrome Extensions Manifest V3
+**Tooling** &mdash; GitHub Actions, Render, GitHub Pages, Chrome Extensions (Manifest V3), PowerBI React, Jest, SQL
 
 ---
 
