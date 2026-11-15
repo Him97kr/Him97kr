@@ -2,7 +2,7 @@
 
 # Himanshu Kumar
 
-**Senior Frontend Engineer &nbsp;·&nbsp; 5.5 years experience &nbsp;·&nbsp; Open to global opportunities**
+**Senior Frontend Engineer &nbsp;·&nbsp; 6 years experience &nbsp;·&nbsp; Open to global opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/himanshu-kumar-518b71192)
 [![Portfolio](https://img.shields.io/badge/Live_Demo-00e5a0?style=flat-square&logo=googlechrome&logoColor=black)](https://him97kr.github.io/geoquery-dashboard)
@@ -58,7 +58,7 @@ Interactive population visualisation with line charts, scatter plots, year-based
 
 ## Experience
 
-5.5+ years building enterprise-scale web applications with React, TypeScript and Next.js. Experience leading frontend architecture, developing GraphQL APIs in Go, building data visualisation platforms with D3.js, and shipping production browser extensions.
+Frontend engineer with over 6 years of experience building scalable web applications in React, TypeScript and Next.js. I develop data visualisation interfaces with D3.js, build GraphQL APIs in Go and help shape frontend architecture and performance.
 
 ---
 
